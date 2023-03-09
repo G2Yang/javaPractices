@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+    <name>Provençana</name>
+    <groups>
+        <group>
+            <name>DAM2</name>
+            <tutor>Tutor1</tutor>
+            <curriculum>Desenvolupament d'aplicacions multiplataforma</curriculum>
+            <students>
+                <student id="st01">
+                    <name>StudName01</name>
+                    <surname>StudSurname01</surname>
+                    <emails>
+                        <email>
+                            email011@server.com
+                        </email>
+                        <email>
+                            email012@server.com
+                        </email>
+                    </emails>
+                    <age>11</age>
+                </student>
+                <student id="st02">
+                    <name>StudName02</name>
+                    <surname>StudSurname02</surname>
+                    <emails>
+                        <email>
+                            email021@server.com
+                        </email>
+                    </emails>
+                    <age>12</age>
+                </student>
+            </students>
+        </group>
+        <group>
+            <name>SMX2</name>
+            <tutor>Tutor2</tutor>
+            <curriculum>Sistemes microinformàtics i xarxes</curriculum>
+            <students>
+                <student id="st03">
+                    <name>StudName03</name>
+                    <surname>StudSurname03</surname>
+                    <emails>
+                        <email>
+                            email031@server.com
+                        </email>
+                    </emails>
+                    <age>13</age>
+                </student>
+                <student id="st04">
+                    <name>StudName04</name>
+                    <surname>StudSurname04</surname>
+                    <emails>
+                        <email>
+                            email041@server.com
+                        </email>
+                    </emails>
+                    <age>14</age>
+                </student>
+            </students>
+        </group>
+    </groups>
+</school>
